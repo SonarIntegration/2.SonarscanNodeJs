@@ -3,7 +3,7 @@ name: Node.js CI
 on:
   push:
     branches:
-      - master  # Set the branch you want to trigger the workflow on
+      - main  # Set the branch you want to trigger the workflow on
 
 jobs:
   build:
